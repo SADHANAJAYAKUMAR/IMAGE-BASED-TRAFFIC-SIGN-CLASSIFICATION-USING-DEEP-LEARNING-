@@ -1,1 +1,1 @@
-# IMAGE-BASED-TRAFFIC-SIGN-CLASSIFICATION-USING-DEEP-LEARNING-
+This project focuses on building a deep learning model to classify traffic signs using image datasets. The developed model is intended to support applications like autonomous vehicles, traffic monitoring systems, and driver assistance systems by accurately recognizing and interpreting traffic signs.
